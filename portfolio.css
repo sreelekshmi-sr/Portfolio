@@ -142,7 +142,7 @@ img {
 }
 
 .height__experience__Card {
-  min-height: 572px;
+  min-height: 580px;
 }
 .shadow-effect {
   transition: all 0.5s;
@@ -217,7 +217,7 @@ img {
   }
 
   .phone__style {
-    margin-left: 76px;
+    margin-left: 82px;
     margin-top: 18px;
   }
 }
