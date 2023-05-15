@@ -142,7 +142,7 @@ img {
 }
 
 .height__experience__Card {
-  min-height: 580px;
+  min-height: 606px;
 }
 .shadow-effect {
   transition: all 0.5s;
@@ -179,7 +179,7 @@ img {
 
 /* skill section */
 .service {
-  min-height: 325px;
+  min-height: 350px;
 }
 
 /* modal */
