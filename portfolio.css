@@ -69,7 +69,7 @@ img {
   color: var(--color-brand);
 }
 
-.navbar .contact__style:active {
+.navbar .contact__style.active {
   color: var(--color-brand);
 }
 /* navbar */
